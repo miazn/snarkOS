@@ -68,7 +68,7 @@ version = "=3.3.2"
 [dependencies.snarkvm-synthesizer]
 #path = "../../../snarkVM/synthesizer"
 git = "https://github.com/miazn/snarkVM.git"
-rev = "8e2e0f2"
+branch = "historical-rewards"
 default-features = false
 optional = true
 
