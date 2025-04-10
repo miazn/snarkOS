@@ -67,8 +67,8 @@ version = "=3.5.0"
 
 [dependencies.snarkvm-synthesizer]
 #path = "../../../snarkVM/synthesizer"
-git = "https://github.com/miazn/snarkVM.git"
-branch = "historical-rewards"
+git = "ssh://git@github.com/ProvableHQ/data-snarkVM.git"
+branch = "store_changed_mappings"
 default-features = false
 optional = true
 
